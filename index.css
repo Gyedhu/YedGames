@@ -62,7 +62,7 @@ body {
 
 @media screen and (max-width: 600px) {
     .container {
-        width: 600px;
+        width: 100%;
     }
     .section {
         flex-flow: column;
